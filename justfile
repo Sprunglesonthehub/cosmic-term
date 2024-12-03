@@ -1,5 +1,5 @@
-name := 'cosmic-term'
-export APPID := 'com.system76.CosmicTerm'
+name := 'acreetion-term'
+export APPID := 'com.Acreetion.AcreetionTerm'
 
 rootdir := ''
 prefix := '/usr'
