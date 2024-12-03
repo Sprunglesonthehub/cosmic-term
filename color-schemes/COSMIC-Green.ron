@@ -1,0 +1,17 @@
+(
+    name: "COSMIC-Green",
+    foreground: "#1a1a1a",
+    cursor: "#C4C4C4",
+    bright_foreground: "#C4C4C4",
+    dim_foreground: "#1a1a1a",
+    normal: (
+        black: "#1B1B1B",
+        red: "#610808",
+        green: "#154207",
+        yellow: "#b1aa06",
+        blue: "#0b01b5",
+        magenta: "#BE6DEE",
+        cyan: "#49BAC8",
+        white: "#BEBEBE",
+    ),
+)
